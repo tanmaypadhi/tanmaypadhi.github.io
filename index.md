@@ -1,6 +1,6 @@
 # Agentic Salesforce Use Cases
 
-A curated collection of **Agentforce + OmniStudio + AI-driven Salesforce** architectures and real-world use cases I’ve designed and validated.
+A curated collection of **Agentforce + Industry Cloud Applications + AI-driven Salesforce** architectures and real-world use cases I’ve designed and validated.
 
 ---
 
@@ -25,6 +25,9 @@ A curated collection of **Agentforce + OmniStudio + AI-driven Salesforce** archi
 - **Evalyn: Customer Use Case Analyst** — AI-driven insights from instrumentation logs and customer journeys
 - **Subscriber Incidents / QoE Agent** — Classify streaming issues, enrich cases, reduce churn
 
+### ⚡ OmniStudio
+- **OmniAgent** — Self-service insights, bill explanations, rate optimization, proactive recommendations
+- 
 ### 🧠 Support & Troubleshooting
 - **SupportAI Investigator** — Multi-system investigation (cases, signals, org telemetry) with recommended resolutions
 
