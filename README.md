@@ -1,19 +1,9 @@
----
-layout: home
----
+# Agentic Salesforce Use Cases
 
-## Welcome 👋
+Welcome! This site documents real-world Agentforce and AI-driven Salesforce
+solutions built across Energy & Utilities Cloud, Media Cloud, OmniStudio, Loyalty Cloud and overall Industry Cloud Applications.
 
-This site documents **real-world Agentforce and agentic Salesforce use cases**
-built across:
+## Use Case Categories
+- 
 
-- ⚡ Energy & Utilities Cloud
-- 🎬 Media Cloud
-- 🧠 Support & Troubleshooting Agents
-- 📊 Observability & Analytics
-
-Each use case includes:
-- Problem statement
-- Agent architecture
-- Salesforce components
-- Learnings and outcomes
+Each post covers the Problem, Architecture, Agent design, and learnings.
