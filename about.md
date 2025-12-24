@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
-## About
+## About Me
+I am a Principal/Architect-level engineer at Salesforce working on Agentforce, OmniStudio, and AI-driven enterprise solutions.
 
-I build and validate agentic Salesforce solutions using Agentforce, OmniStudio, and AI-driven automation, with a strong focus on customer trust, security, privacy, and test strategy.
+This blog captures hands-on agentic architectures, real-world constraints,
+and learnings from production-grade implementations.
