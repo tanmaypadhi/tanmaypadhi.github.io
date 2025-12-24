@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 
-## About Me
 I am a Principal/Architect-level engineer at Salesforce working on Agentforce, OmniStudio, and AI-driven enterprise solutions.
 
 This blog captures hands-on agentic architectures, real-world constraints,
