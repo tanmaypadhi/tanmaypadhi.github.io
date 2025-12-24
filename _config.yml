@@ -1,3 +1,10 @@
 theme: minima
 title: Agentic Salesforce Use Cases
 description: Real-world Agentforce, OmniStudio, and AI-driven Salesforce architectures
+
+header_pages:
+  - index.md
+  - use-cases.md
+  - architectures.md
+  - prompts.md
+  - about.md
