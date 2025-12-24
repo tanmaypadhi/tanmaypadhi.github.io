@@ -1,3 +1,8 @@
+---
+layout: home
+title: Home
+---
+
 # Agentic Salesforce Use Cases
 
 A curated collection of **Agentforce + Industry Cloud Applications + AI-driven Salesforce** architectures and real-world use cases I’ve designed and validated.
