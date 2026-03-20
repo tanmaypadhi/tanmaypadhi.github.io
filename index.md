@@ -62,8 +62,8 @@ Each use case follows a consistent structure:
 ---
 
 ## Contact / Notes
-<p>
-  <img src="/assets/linkedin.png" alt="LinkedIn" width="18" style="vertical-align: middle; margin-right: 6px;">
-  <strong>LinkedIn:</strong>
-  <a href="https://www.linkedin.com/in/tanmaypadhi/" target="_blank">tanmaypadhi</a>
-</p>
+
+If you’re reviewing this for collaboration, feedback, or enablement, feel free to open a GitHub issue in this repo with comments or questions.
+
+- 💼 **LinkedIn:** [tanmaypadhi](https://www.linkedin.com/in/tanmaypadhi/)
+- 💻 **GitHub:** [tanmaypadhi.github.io](https://tanmaypadhi.github.io/)
