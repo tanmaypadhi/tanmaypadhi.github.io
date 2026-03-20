@@ -65,4 +65,4 @@ Each use case follows a consistent structure:
 
 If you’re reviewing this for collaboration, feedback, or enablement, feel free to open a GitHub issue in this repo with comments or questions.
 
-You can also connect with me on [LinkedIn](https://www.linkedin.com/in/tanmaypadhi/).
+**LinkedIn:** [tanmaypadhi](https://www.linkedin.com/in/tanmaypadhi/)
