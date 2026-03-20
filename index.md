@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 # Agentic Use Cases on CRM Platform of Salesforce
@@ -31,7 +32,7 @@ A curated collection of **Agentforce + Industry Cloud Applications + AI-driven S
 
 ### ⚡ OmniStudio
 - **OmniAgent** — Self-service insights, bill explanations, rate optimization, proactive recommendations
-- 
+
 ### 🧠 Support & Troubleshooting
 - **SupportAI Investigator** — Multi-system investigation (cases, signals, org telemetry) with recommended resolutions
 
