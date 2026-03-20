@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 # Agentic Use Cases on CRM Platform of Salesforce
