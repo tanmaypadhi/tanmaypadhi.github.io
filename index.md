@@ -63,6 +63,9 @@ Each use case follows a consistent structure:
 
 ## Contact / Notes
 
+## Contact / Notes
+
 If you’re reviewing this for collaboration, feedback, or enablement, feel free to open a GitHub issue in this repo with comments or questions.
 
-**LinkedIn:** [tanmaypadhi](https://www.linkedin.com/in/tanmaypadhi/)
+- 💼 **LinkedIn:** [tanmaypadhi](https://www.linkedin.com/in/tanmaypadhi/)
+- 💻 **GitHub:** [tanmaypadhi.github.io](https://tanmaypadhi.github.io/)
