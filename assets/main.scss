@@ -3,10 +3,24 @@
 
 @import "minima";
 
-.site-title {
+/* Remove the auto-generated Home heading below nav */
+.home .page-heading {
   display: none !important;
 }
 
-.home .page-heading {
-  display: none !important;
+/* Clean nav layout */
+.site-header {
+  border-top: 0;
+}
+
+.site-nav {
+  float: none !important;
+  line-height: normal !important;
+  text-align: center;
+  padding: 16px 0;
+}
+
+.site-nav .page-link {
+  display: inline-block;
+  margin: 0 14px;
 }
