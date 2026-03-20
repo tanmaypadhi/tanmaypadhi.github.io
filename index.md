@@ -66,4 +66,4 @@ Each use case follows a consistent structure:
 If you’re reviewing this for collaboration, feedback, or enablement, feel free to open a GitHub issue in this repo with comments or questions.
 
 - 💼 **LinkedIn:** [tanmaypadhi](https://www.linkedin.com/in/tanmaypadhi/)
-- 💻 **GitHub:** [tanmaypadhi.github.io](https://tanmaypadhi.github.io/)
+- 💻 **GitHub:** [tanmaypadhi](https://github.com/tanmaypadhi/)
