@@ -65,5 +65,18 @@ Each use case follows a consistent structure:
 
 If you’re reviewing this for collaboration, feedback, or enablement, feel free to open a GitHub issue in this repo with comments or questions.
 
+<ul>
+  <li style="list-style-type: disc; margin-bottom: 8px;">
+    <img src="/assets/icons/icons8-linkedin-50.png" alt="LinkedIn" width="18" style="vertical-align: middle; margin-right: 6px;">
+    <strong>LinkedIn:</strong>
+    <a href="https://www.linkedin.com/in/tanmaypadhi/" target="_blank">tanmaypadhi</a>
+  </li>
+  <li style="list-style-type: disc;">
+    <img src="/assets/icons/icons8-github-50.png" alt="GitHub" width="18" style="vertical-align: middle; margin-right: 6px;">
+    <strong>GitHub:</strong>
+    <a href="https://github.com/tanmaypadhi/" target="_blank">tanmaypadhi</a>
+  </li>
+</ul>
+
 - 💼 **LinkedIn:** [tanmaypadhi](https://www.linkedin.com/in/tanmaypadhi/)
 - 💻 **GitHub:** [tanmaypadhi](https://github.com/tanmaypadhi/)
