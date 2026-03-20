@@ -77,6 +77,3 @@ If you’re reviewing this for collaboration, feedback, or enablement, feel free
     <a href="https://github.com/tanmaypadhi/" target="_blank">tanmaypadhi</a>
   </li>
 </ul>
-
-- 💼 **LinkedIn:** [tanmaypadhi](https://www.linkedin.com/in/tanmaypadhi/)
-- 💻 **GitHub:** [tanmaypadhi](https://github.com/tanmaypadhi/)
