@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Agentic Salesforce Use Cases
+# Agentic Use Cases on CRM Platform of Salesforce
 
 A curated collection of **Agentforce + Industry Cloud Applications + AI-driven Salesforce** architectures and real-world use cases I’ve designed and validated.
 
